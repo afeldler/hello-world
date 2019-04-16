@@ -1,5 +1,9 @@
-# hello-world
 
-hello everyone.!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet dolor elit. Ut egestas nulla vitae ullamcorper lacinia. Proin dictum sagittis neque et tincidunt. Praesent commodo rutrum nulla nec scelerisque. Nullam sit amet eros consectetur, lacinia eros ut, efficitur tellus. Vivamus quis cursus ex. Phasellus eu mauris nisi. Duis commodo, lacus tempor molestie scelerisque, magna sapien volutpat nisl, eget lobortis enim ipsum non justo.
+<html>
+<head>
+<title>A pic of a hamster</title>
+</head>
+<body>
+<img src="https://pbs.twimg.com/profile_images/1081528590393499648/UaDmLq7P_400x400.jpg" alt="hamster throwin up the peace sign" style="width:300px;height:300px;">
+</body>
+</html>
